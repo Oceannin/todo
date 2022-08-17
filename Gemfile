@@ -8,7 +8,6 @@ ruby '3.0.0'
 gem 'aasm'
 gem 'aasm-diagram'
 gem 'optimist'
-gem 'yarn'
 gem 'activeadmin'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'bootstrap'
